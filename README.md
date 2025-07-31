@@ -30,3 +30,5 @@ public class Main {
         System.out.println(person.getName() + " is " + person.getAge() + " years old.");
     }
 }
+# OUTPUT
+bala is 19 years old.
